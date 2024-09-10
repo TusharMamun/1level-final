@@ -13,7 +13,7 @@ h2{
     position: relative;
     
 }
-h2::after{
+/* h2::after{
     content:'';
     position: absolute;
     background: url(img/serviceicon.png);
@@ -23,7 +23,7 @@ h2::after{
     bottom: -40px;
     left: 50%;
     transform: translateX(-50%);
-}
+} */
 .contener{
     max-width: 1140px;
     margin: 0 auto;
